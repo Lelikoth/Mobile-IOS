@@ -1,4 +1,4 @@
-Zad 1 Kalkulator
+**ZADANIE 1 Kalkulator**
 
 3.0 Należy stworzyć prosty kalkulator z dodawaniem + opcja czyszczenia wyniku + przycisku wyniku — ✅
 
@@ -11,7 +11,7 @@ Zad 1 Kalkulator
 5.0 Wersja ma się skalować na tablet — ✅
 
 
-Zad 2 Lista zadań (work in progress)
+**ZADANIE 2 Lista zadań (work in progress)**
 
 3.0 wyświetla listę z góry określonych zadań (ArrayList) — 
 
