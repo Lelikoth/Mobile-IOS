@@ -48,3 +48,16 @@
 4.5 wyświetlanie produktów oraz ich kategorii na dwóch osobnych listach —  ✅
 
 5.0 dodawanie produktów z poziomu aplikacji mobilnej —  ✅
+
+
+**ZADANIE 5 Oauth**
+
+3.0 logowanie przez aplikację serwerową —  ✅
+
+3.5 rejestracja przez aplikację serwerową —  ✅
+
+4.0 logowanie via Google OAuth2 —  ✅
+
+4.5 logowanie via Facebook lub Github OAuth2 —  ✅
+
+5.0 zapisywanie danych logowania OAuth2 po stronie serwera —  ✅
